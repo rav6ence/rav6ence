@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Pyhton, and Android**
 
-- ⚡ Fun fact **valorant diamond hardstucker 3 season lmao**
+- ⚡ Fun fact **valorant iron hardstucker 5 season lmao**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
