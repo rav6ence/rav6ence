@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm ravence</h1>
-<h3 align="center">just a student</h3>
+<h3 align="center">just a student with chinese profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rav6ence&label=Profile%20views&color=0e75b6&style=flat" alt="rav6ence" /> </p>
 
