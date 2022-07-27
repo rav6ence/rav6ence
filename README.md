@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://rishavchanda.io
+[![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm ravence</h1>
 <h3 align="center">just a student</h3>
