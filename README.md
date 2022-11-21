@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rav6ence&label=Profile%20views&color=0e75b6&style=flat" alt="rav6ence" /> </p>
 
-- 🌱 I’m currently learning **Android, Pyhton**
+- 🌱 I’m currently learning **Android, HTML, JavaScript, PHP, Kotlin**
 
-- 💬 Ask me about **Java, Pyhton, and Android**
+- 💬 Ask me about **Java, PHP, and Android**
 
 - ⚡ Fun fact **valorant iron hardstucker 5 season lmao**
 
