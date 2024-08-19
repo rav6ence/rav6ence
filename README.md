@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rav6ence&label=Profile%20views&color=0e75b6&style=flat" alt="rav6ence" /> </p>
 
-- 🌱 I’m currently learning **Android, HTML, JavaScript, PHP, Kotlin**
+- 🌱 I’m currently learning **Android, HTML, JavaScript, PHP, Kotlin, Flutter and Dart**
 
 - 💬 Ask me about **Java, PHP, and Android**
 
